@@ -34,7 +34,11 @@ c. Shows the list(containg hyperlinks) to show the list of PGs in the most popul
 	b. Filter bar, using which the PGs can be sorted according to rent and rating, in ascending or descending order.
 	c. User can see here which PG is being marked interested by how many users, to know popularity.
 	d. After logging in, user can mark any PG(s) as interested, from the list itself, by clicking on the heart icon.
-	e. The heart icon toggles style in terms of fill color, when alternatively clicked to like or dislike the pg. Based upon click,           interested user's number remains updated dynamically.
+	e. The heart icon toggles style in terms of fill color, when alternatively clicked to like or dislike the pg. Based upon      click,interested user's number remains updated dynamically.
+	
+
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/16ad6a37-b31e-4587-973f-1d7e639c1310" />
 	
 3. The PG details page:-
 -------------------------
